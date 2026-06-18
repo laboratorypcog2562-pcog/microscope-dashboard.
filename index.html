@@ -92,6 +92,40 @@ Prince of Songkla University (PSU)
 
 <div class="search-container">
 
+<div class="filter-container">
+
+<button
+class="filter-btn"
+onclick="filterCards('all')">
+All
+</button>
+
+<button
+class="filter-btn"
+onclick="filterCards('normal')">
+Normal
+</button>
+
+<button
+class="filter-btn"
+onclick="filterCards('warning')">
+Warning
+</button>
+
+<button
+class="filter-btn"
+onclick="filterCards('danger')">
+Out of Service
+</button>
+
+<button
+class="filter-btn"
+onclick="filterCards('norecord')">
+No Record
+</button>
+
+</div>
+
 <input
 type="text"
 id="searchBox"
@@ -312,6 +346,16 @@ document.getElementById(
 "norecordCount"
 ).innerText = norecord;
 
+document.getElementById(
+"availableCount"
+).innerText =
+normal + warning;
+
+document.getElementById(
+"totalCount"
+).innerText =
+data.length;
+
 
 document
 .getElementById("searchBox")
@@ -355,6 +399,37 @@ console.error(error);
 
 });
 
+function filterCards(type){
+
+const cards =
+document.querySelectorAll(".card");
+
+cards.forEach(card=>{
+
+if(type==="all"){
+
+card.style.display="block";
+
+}
+else{
+
+if(card.classList.contains(type)){
+
+card.style.display="block";
+
+}
+else{
+
+card.style.display="none";
+
+}
+
+}
+
+});
+
+}
+  
 </script>
 
 </body>
