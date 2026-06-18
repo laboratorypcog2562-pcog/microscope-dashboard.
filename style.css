@@ -168,3 +168,13 @@ grid-template-columns:1fr;
 }
 
 }
+
+.available-card{
+background:#16a34a;
+color:white;
+}
+
+.total-card{
+background:#0f766e;
+color:white;
+}
