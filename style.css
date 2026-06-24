@@ -187,12 +187,12 @@ grid-template-columns:1fr;
 }
 
 .available-card{
-background:#16a34a;
+background:#3b82f6;
 color:white;
 }
 
 .total-card{
-background:#0f766e;
+background:#9333ea;
 color:white;
 }
 .filter-container{
@@ -223,5 +223,25 @@ cursor:pointer;
 .filter-btn:hover{
 
 background:#15803d;
+
+}
+
+.detail{
+
+margin-top:8px;
+
+font-size:14px;
+
+line-height:1.5;
+
+}
+
+.problem-image{
+
+width:100%;
+
+margin-top:10px;
+
+border-radius:10px;
 
 }
