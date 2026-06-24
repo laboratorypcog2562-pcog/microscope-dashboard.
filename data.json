@@ -57,13 +57,13 @@
   {
     "microscope": "No.6 Olympus",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
-    "problem": "-",
-    "image": "-"
+    "studentId": 66555223,
+    "user": "น้ำตาล",
+    "course": "Research Project",
+    "date": "2026-06-24T09:47:47.647Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
+    "problem": "แตก",
+    "image": "https://drive.google.com/open?id=1G9UeY2e0aI5DlGnoAETxNs2ljbXU7jlc"
   },
   {
     "microscope": "No.7 Olympus",
