@@ -13,13 +13,13 @@
   {
     "microscope": "No.2 Olympus",
     "location": "-",
-    "studentId": 6640310903,
-    "user": "ทิพเกสร",
+    "studentId": 6640310905,
+    "user": "มะนาว",
     "course": "570-331",
-    "date": "2026-06-24T07:44:21.907Z",
-    "status": "ปกติ (Normal)",
-    "problem": "เลนส์กล้องแตก",
-    "image": "https://drive.google.com/open?id=1C0oWa_pCZjxgmU__g8WDTDt2oWk8zliH"
+    "date": "2026-06-25T03:18:19.021Z",
+    "status": "ใช้งานไม่ได้ (Out of Service)",
+    "problem": "กล้องเสีย",
+    "image": "-"
   },
   {
     "microscope": "No.3 Olympus",
@@ -79,13 +79,13 @@
   {
     "microscope": "No.8 Olympus",
     "location": "-",
-    "studentId": 665555,
-    "user": "ส้ม",
-    "course": "570-331",
-    "date": "2026-06-24T10:21:08.271Z",
-    "status": "ใช้งานไม่ได้ (Out of Service)",
-    "problem": "พัง",
-    "image": "https://drive.google.com/open?id=1f-ovsMSM2gQoHazH2RyiUWW755GMfouh"
+    "studentId": "-",
+    "user": "-",
+    "course": "-",
+    "date": "-",
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.9 Olympus",
