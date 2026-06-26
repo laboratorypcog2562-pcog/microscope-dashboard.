@@ -781,14 +781,14 @@
     "image": "-"
   },
   {
-    "microscope": "No.72 Zeiss  สำรอง",
+    "microscope": "No.72 Zeiss  สำรอง",
     "location": "-",
     "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
-    "problem": "-",
-    "image": "-"
+    "user": "ห้องปฏิบัติการเภสัชเวท",
+    "course": "570-331",
+    "date": "2026-06-26T08:42:31.867Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
+    "problem": "ปุ่มปรับภาพหยาบค้างหมุนได้ไม่สุด",
+    "image": "https://drive.google.com/open?id=1AzRrjC2xTP0DIPu3EQz6yxnCya4rLkqY"
   }
 ]
