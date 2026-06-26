@@ -13,13 +13,13 @@
   {
     "microscope": "No.2 Olympus",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
-    "problem": "-",
-    "image": "-"
+    "studentId": 6640310999,
+    "user": "ส้ม",
+    "course": "570-331",
+    "date": "2026-06-26T08:22:20.425Z",
+    "status": "ใช้งานไม่ได้ (Out of Service)",
+    "problem": "กล้องเสีย",
+    "image": "https://drive.google.com/open?id=1pkfoBulaiRzz87r0wS8yAlubKPUmQhiq"
   },
   {
     "microscope": "No.3 Olympus",
