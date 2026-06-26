@@ -651,13 +651,13 @@
   {
     "microscope": "No.60 Nikon สำรอง",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
-    "problem": "-",
-    "image": "-"
+    "studentId": 664,
+    "user": "ห้องปฏิบัติการเภสัชเวท",
+    "course": "570-331",
+    "date": "2026-06-26T08:45:48.549Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
+    "problem": "ปุ่มปรับภาพหยาบค้างหมุนได้ไม่สุด",
+    "image": "https://drive.google.com/open?id=1Mc9LtzSErv1IEjWVYGaCNfDKZ27tcbEv"
   },
   {
     "microscope": "No.61 Nikon สำรอง",
