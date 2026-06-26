@@ -12,7 +12,7 @@
   },
   {
     "microscope": "No.2 Olympus",
-     "location": "-",
+    "location": "-",
     "studentId": "-",
     "user": "-",
     "course": "-",
@@ -168,11 +168,11 @@
     "microscope": "No.16 Olympus",
     "location": "-",
     "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
-    "problem": "-",
+    "user": "เภสัชเวท 1",
+    "course": "570-331",
+    "date": "2026-06-26T12:48:20.341Z",
+    "status": "ใช้งานไม่ได้ (Out of Service)",
+    "problem": "ปุ่มปรับภาพค้างหมุนได้ไม่สุด",
     "image": "-"
   },
   {
@@ -650,7 +650,7 @@
   },
   {
     "microscope": "No.60 Nikon สำรอง",
-     "location": "-",
+    "location": "-",
     "studentId": "-",
     "user": "-",
     "course": "-",
@@ -782,7 +782,7 @@
   },
   {
     "microscope": "No.72 Zeiss  สำรอง",
-   "location": "-",
+    "location": "-",
     "studentId": "-",
     "user": "-",
     "course": "-",
