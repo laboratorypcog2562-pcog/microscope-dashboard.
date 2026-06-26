@@ -12,14 +12,14 @@
   },
   {
     "microscope": "No.2 Olympus",
-    "location": "-",
-    "studentId": 6640310999,
-    "user": "ส้ม",
-    "course": "570-331",
-    "date": "2026-06-26T08:22:20.425Z",
-    "status": "ใช้งานไม่ได้ (Out of Service)",
-    "problem": "กล้องเสีย",
-    "image": "https://drive.google.com/open?id=1pkfoBulaiRzz87r0wS8yAlubKPUmQhiq"
+     "location": "-",
+    "studentId": "-",
+    "user": "-",
+    "course": "-",
+    "date": "-",
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.3 Olympus",
@@ -650,14 +650,14 @@
   },
   {
     "microscope": "No.60 Nikon สำรอง",
-    "location": "-",
-    "studentId": 664,
-    "user": "ห้องปฏิบัติการเภสัชเวท",
-    "course": "570-331",
-    "date": "2026-06-26T08:45:48.549Z",
-    "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "ปุ่มปรับภาพหยาบค้างหมุนได้ไม่สุด",
-    "image": "https://drive.google.com/open?id=1Mc9LtzSErv1IEjWVYGaCNfDKZ27tcbEv"
+     "location": "-",
+    "studentId": "-",
+    "user": "-",
+    "course": "-",
+    "date": "-",
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.61 Nikon สำรอง",
@@ -751,10 +751,10 @@
     "microscope": "No.69 Zeiss  สำรอง",
     "location": "-",
     "studentId": "-",
-    "user": "อลิซาเบธ โอลเซ่น",
-    "course": "570-231",
-    "date": "2026-06-26T11:48:25.546Z",
-    "status": "ปกติ (Normal)",
+    "user": "-",
+    "course": "-",
+    "date": "-",
+    "status": "No Record",
     "problem": "-",
     "image": "-"
   },
@@ -782,13 +782,13 @@
   },
   {
     "microscope": "No.72 Zeiss  สำรอง",
-    "location": "-",
+   "location": "-",
     "studentId": "-",
-    "user": "ห้องปฏิบัติการเภสัชเวท",
-    "course": "570-331",
-    "date": "2026-06-26T08:42:31.867Z",
-    "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "ปุ่มปรับภาพหยาบค้างหมุนได้ไม่สุด",
-    "image": "https://drive.google.com/open?id=1AzRrjC2xTP0DIPu3EQz6yxnCya4rLkqY"
+    "user": "-",
+    "course": "-",
+    "date": "-",
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   }
 ]
