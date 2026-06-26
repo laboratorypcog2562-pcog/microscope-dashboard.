@@ -24,13 +24,13 @@
   {
     "microscope": "No.3 Olympus",
     "location": "-",
-    "studentId": 6640310922,
-    "user": "อรุโณทัย ปรีชา",
-    "course": "570-331",
-    "date": "2026-06-24T07:42:48.580Z",
-    "status": "ปกติ (Normal)",
-    "problem": "มีรอยขีดข่วนตรงเลนส์กล้อง",
-    "image": "https://drive.google.com/open?id=1-Y_-_haEnqQpX3LDh2YjK7FFGWMa0Sw6"
+    "studentId": "-",
+    "user": "-",
+    "course": "-",
+    "date": "-",
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.4 Olympus",
@@ -57,13 +57,13 @@
   {
     "microscope": "No.6 Olympus",
     "location": "-",
-    "studentId": 66555223,
-    "user": "น้ำตาล",
-    "course": "Research Project",
-    "date": "2026-06-24T09:47:47.647Z",
-    "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "แตก",
-    "image": "https://drive.google.com/open?id=1G9UeY2e0aI5DlGnoAETxNs2ljbXU7jlc"
+    "studentId": "-",
+    "user": "-",
+    "course": "-",
+    "date": "-",
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.7 Olympus",
